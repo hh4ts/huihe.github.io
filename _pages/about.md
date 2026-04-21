@@ -17,25 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-Greetings! I am currently a Postdoc at the Institute of Data Science, [National University of Singapore](https://www.nus.edu.sg/), working with [Prof. See-Kiong Ng](https://scholar.google.com/citations?user=_wsommYAAAAJ). Before that, I received my PhD degree at [Fuzhou University](https://ccds.fzu.edu.cn/), supervised by [Prof. Wenzhong Guo](https://ccds.fzu.edu.cn/info/1202/4993.htm) and [Prof. Shiping Wang](https://ccds.fzu.edu.cn/info/1202/8958.htm). From Oct 2021 to Oct 2022, I am a visiting student in the School of Data Science, Chinese University of Hong Kong (Shenzhen), China, supervised by [Prof. Jicong Fan](https://jicongfan.github.io/). From Jan 2023 to June 2023, I am a visiting student in the Cooperative AI Lab, King's College London, UK, supervised by [Prof. Yali Du](https://yalidu.github.io/). My research interests include anomaly detection, deep clustering, graph neural networks, and generative models <a href='https://scholar.google.com/citations?user=g9TVoA0AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fjinyucai95.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. My studies have led to over 20 scientific publications on top-tier conferences and journals, including IEEE TPAMI/TMM, ICML, NeurIPS, ICLR, CVPR, AAAI, IJCAI, ACM MM, PR, etc. 
+Greetings! I am currently a Postdoc at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Guansong Pang](https://sites.google.com/site/gspangsite/). Before that, I received my PhD degree at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), supervised by [Prof. Zhendong Niu](https://pure.bit.edu.cn/zh/persons/zhendong-niu/). My research interests include time series forecasting, anomaly detection, foundation model (FM), FM for AIOps, and LLMs on sequence data <a href='https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fhuihe.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'26! Congrats to Yunhe.
-- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by WWW'26 (CCF-A)! Congrats to Wei Guan.
-- *2025.12*: &nbsp;🎉🎉 One paper regarding the exploration of MoE in graph anomaly detection has been accepted by TPAMI (CCF-A)! Many thanks to Yunhe and all the collaborators.
-- *2025.11*: &nbsp;🎉🎉 One paper has been accepted by AAAI'26 (CCF-A)! Congrats to Zhihao Wu.
-- *2025.09*: &nbsp;🎉🎉 Two papers have been accepted by NeurIPS'25 (CCF-A)! One of them has been selected as a **Spotlight** paper. Congratulations to Zhihao Wu, Yuan Xie, and all the collaborators.
-- *2025.08*: &nbsp;🎉🎉 One paper has been accepted by Pattern Recognition (SCI Q1, CCF-B)! Many thanks to my collaborators.
-- *2025.05*: &nbsp;🎉🎉 Two papers have been accepted by ICML'25 (CCF-A)! One of them has been selected as a **Spotlight** paper (**top 2.6%** of all submissions). Many thanks to Yunhe and all the collaborators.
-- *2025.01*: &nbsp;🎉🎉 I am honored to receive the **Best Research Staff Award** from the Institute of Data Science (IDS), NUS.
-- *2024.12*: &nbsp;🎉🎉 One paper has been accepted by AAAI'25 (CCF-A) as an **Oral** paper! Congrats to Yunhe.
-- *2024.07*: &nbsp;🎉🎉 One paper regarding federated graph anomaly detection has been accepted by ACM MM'24 (CCF-A)! Many thanks to Yunhe and all the collaborators.
-- *2024.04*: &nbsp;🎉🎉 Three papers have been accepted by IJCAI'24 (CCF-A)! Many thanks to my collaborators.
-- *2024.02*: &nbsp;🎉🎉 One paper has been accepted by TMM (SCI Q1)! Many thanks to my collaborators.
-- *2024.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR'24 (Spotlight)! Congrats to Yunhe and all the collaborators.
+
 
 # 💼 Work Experience
-- *2023.08 - Now*, Postdoc, Institute of Data Science, National University of Singapore, Singapore.
+- *2026.02 - Now*, Postdoc, School of Computing and Information Systems, Singapore Management University, Singapore.
 
 # 🎓 Educations
 - *2018.09 - 2023.06*, Ph.D., College of Computer and Data Science, Fuzhou University, China.
