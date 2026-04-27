@@ -23,7 +23,6 @@ Greetings! I am currently a Postdoc at the School of Computing and Information S
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS'25! Many thanks to my collaborators.
 
-
 # 💼 Work Experience
 - *2026.02 - Now*, Postdoc, School of Computing and Information Systems, Singapore Management University, Singapore.
 
@@ -35,15 +34,12 @@ Greetings! I am currently a Postdoc at the School of Computing and Information S
 
 # 📝 Academic Service
 - **Reviewers**
-  - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
-  - IEEE Transactions on Image Processing (IEEE TIP)
-  - IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)
-  - IEEE Transactions on Services Computing (IEEE TSC)
   - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
   - IEEE Transactions on Multimedia (IEEE TMM)
-  - IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT)
-  - Pattern Recognition (PR)
-  - Engineering Applications of Artificial Intelligence (EAAI)
+  - Information Fusion (IF)
+  - Knowledge-Based Systems (KBS)
+  - Machine Learning (ML)
+  - Neurocomputing
 - **PC Members**
   - AAAI 2023/2024/2025/2026
   - IJCAI 2026
@@ -54,25 +50,26 @@ Greetings! I am currently a Postdoc at the School of Computing and Information S
   - ACM MM 2025/2026
   - ACL ARR 2026
 
+# 🎥 Tutorials
+
+{% include_relative tutorial.md %}
+
 # 📖 Selected Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
-<sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=g9TVoA0AAAAJ" target="_blank">Full List</a>
+<sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN" target="_blank">Full List</a>
 </p>
 
-{% include_relative publication/AnomalyDetection.md %}
+{% include_relative publication/2025.md %}
 
-{% include_relative publication/DeepClustering.md %}
+{% include_relative publication/2024.md %}
 
-{% include_relative publication/others.md %}
+{% include_relative publication/2023.md %}
 
-# 📎 Links
-- [FZUThesis](https://github.com/chenzl23/FZUThesis): Latex Template for FZU Thesis.
-- [CCF Recommendation List](https://ccf.atom.im/)
-- [CCF Recommendation Conference Deadlines](https://ccfddl.github.io/)
-- [Fabulous](https://github.com/Creator-SN/Fabulous): an integrated management system for papers and literature, developed by Aleversn.
-- [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
-- [Latex Table Convert](https://tableconvert.com/)
-- [Latex Table Generator](https://www.tablesgenerator.com/)
-- [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
+{% include_relative publication/2022.md %}
+
+# 📎 Friend Links
+- Prof. [Guansong Pang](https://sites.google.com/site/gspangsite/), Singapore Management University, Singapore
+- Prof. [Qi Zhang](https://sites.google.com/view/qizhang-bit-uts), Tongji University, China
+- Dr. [Kun Yi](https://scholar.google.com/citations?user=MhMZcIEAAAAJ), State Information Center, China
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
