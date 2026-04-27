@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jinyu Cai - Homepage"
+title                    : "Hui He - Homepage"
 description              : 
-repository               : "jinyucai95/jinyucai95.github.io"
+repository               : "hh4ts/huihe.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  G-NWMJPWMRVK # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-CPZPVQS7V5 # get google_analytics_id from https://analytics.google.com/analytics/
 
 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 icon: 🍺 
@@ -24,15 +24,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jinyu Cai (蔡锦煜)"
-  avatar           : "images/JinyuCai.jpg"
-  bio              : "National University of Singapore"
+  name             : "Hui He (何慧)"
+  avatar           : "images/HuiHe.jpg"
+  bio              : "Singapore Management University"
   location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=g9TVoA0AAAAJ"
-  email            : "jinyucai1995@gmail.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN"
+  email            : "huihe@smu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Hui_He43?ev=hdr_xprf" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,15 +40,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : jinyucai95 # e.g., "github username"
+  github           : hh4ts # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : https://dblp.org/pid/223/9427.html # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0000-0003-2241-2754   # e.g., "https://orcid.org/xxxx"
+  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : https://orcid.org/0000-0001-5515-2739   # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
