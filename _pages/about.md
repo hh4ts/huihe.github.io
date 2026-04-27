@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-Greetings! I am currently a Postdoc at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Guansong Pang](https://sites.google.com/site/gspangsite/) and [Prof. Debin Gao] (https://dbgao.github.io/). Before that, I received my PhD degree at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), supervised by [Prof. Zhendong Niu](https://pure.bit.edu.cn/zh/persons/zhendong-niu/). My research interests include time series forecasting, anomaly detection, foundation models (FMs), FMs for AIOps, and LLMs on sequence data <a href='https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fhuihe.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
+Greetings! I am currently a Postdoc at the School of Computing and Information Systems (SCIS), [Singapore Management University (SMU)](https://www.smu.edu.sg/), working with [Prof. Guansong Pang](https://sites.google.com/site/gspangsite/) and [Prof. Debin Gao](https://dbgao.github.io/). Before that, I received my PhD degree at [Beijing Institute of Technology (BIT)](https://www.bit.edu.cn/), supervised by [Prof. Zhendong Niu](https://pure.bit.edu.cn/zh/persons/zhendong-niu/). My research interests include time series forecasting, anomaly detection, foundation models (FMs), FMs for AIOps, and LLMs on sequence data <a href='https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fjinyucai95%2Fhuihe.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. 
 
 
 # 🔥 News
@@ -54,7 +54,7 @@ Greetings! I am currently a Postdoc at the School of Computing and Information S
 
 {% include_relative tutorial.md %}
 
-# 📖 Selected Publications 
+# 📖 Refereed Publications 
 <p style="font-size:0.9em; color:#666; margin-top:-10px; margin-bottom:5px;">
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN" target="_blank">Full List</a>
 </p>
@@ -71,5 +71,6 @@ Greetings! I am currently a Postdoc at the School of Computing and Information S
 - Prof. [Guansong Pang](https://sites.google.com/site/gspangsite/), Singapore Management University, Singapore
 - Prof. [Qi Zhang](https://sites.google.com/view/qizhang-bit-uts), Tongji University, China
 - Dr. [Kun Yi](https://scholar.google.com/citations?user=MhMZcIEAAAAJ), State Information Center, China
+- Dr. [Hezhe Qiao](https://hezheqiao2022.github.io/), Singapore Management University, Singapore
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=rlVnmh50IOmOPOW6tIm2OnOeG7JG5s5-zdf0AOD1z7M&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
