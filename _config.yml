@@ -9,8 +9,6 @@
 title                    : "Hui He - Homepage"
 description              : 
 repository               : "hh4ts/hh4ts.github.io"
-url                      : "https://hh4ts.github.io"
-baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
