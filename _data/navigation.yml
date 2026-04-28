@@ -19,10 +19,10 @@ main:
     url: "/#-tutorials"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-refereed-publications"
 
-  - title: "Friend Links"
-    url: "/#-links"
+  - title: "Links"
+    url: "/#-friend-links"
 
 
 
