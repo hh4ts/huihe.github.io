@@ -15,10 +15,13 @@ main:
   - title: "Academic Service"
     url: "/#-academic-service"
 
+  - title: "Tutorials"
+    url: "/#-tutorials"
+
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Links"
+  - title: "Friend Links"
     url: "/#-links"
 
 
