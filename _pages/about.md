@@ -40,6 +40,8 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
   - Knowledge-Based Systems (KBS)
   - Machine Learning (ML)
   - Neurocomputing
+- **SPC Members**
+  - CIKM 2026
 - **PC Members**
   - AAAI 2023/2024/2025/2026
   - IJCAI 2026
