@@ -62,6 +62,8 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 <sup>†</sup> indicates co-first author; * indicates corresponding author. <a href="https://scholar.google.com/citations?user=1IqAdRwAAAAJ&hl=zh-CN" target="_blank">Full List</a>
 </p>
 
+{% include_relative publication/2026.md %}
+
 {% include_relative publication/2025.md %}
 
 {% include_relative publication/2024.md %}
