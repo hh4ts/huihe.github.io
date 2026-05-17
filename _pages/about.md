@@ -21,6 +21,7 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper has been accepted by KDD'26! Many thanks to my collaborators.
 - *2025.08*: &nbsp;🎉🎉 One paper has been accepted by NeurIPS'25! Many thanks to my collaborators.
 
 # 💼 Work Experience
