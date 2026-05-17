@@ -28,7 +28,7 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 - *2026.02 - Now*, Postdoc, School of Computing and Information Systems, Singapore Management University, Singapore.
 
 # 🎓 Educations
-- *2020.09 - 2026.03*, Ph.D., School of Medical Technology, Beijing Institute of Technologe, China.
+- *2020.09 - 2026.03*, Ph.D., School of Medical Technology, Beijing Institute of Technology, China.
 - *2024.10 - 2025.10*, Visiting Ph.D. Student, Machine Learning & Applications (MaLA) Lab, Singapore Management University, Singapore.
 - *2017.09 - 2020.06*, M.E., School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology, China.
 - *2013.09 - 2017.06*, B.E., School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology, China.
